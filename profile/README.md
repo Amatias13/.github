@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%20whoami-7c6af7?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-%20About%20Me-7c6af7?style=for-the-badge&logoColor=white" />
 
 I'm the kind of person who opens the **terminal before opening email**.
 
@@ -26,7 +26,7 @@ Co-founder of **Code Lusitan**, because I believe good ideas deserve great execu
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%20tech%20--list-7c6af7?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-%20Tech%20Stack-7c6af7?style=for-the-badge&logoColor=white" />
 
 **Languages**
 
@@ -55,7 +55,7 @@ Co-founder of **Code Lusitan**, because I believe good ideas deserve great execu
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%20git%20log%20--oneline-7c6af7?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-%20Experience-7c6af7?style=for-the-badge&logoColor=white" />
 
 ```
 feat: 3+ years building production systems at INSTICC
