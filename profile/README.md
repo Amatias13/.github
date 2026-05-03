@@ -10,13 +10,11 @@
   <img src="https://img.shields.io/badge/Co--founder-Code%20Lusitan-7c6af7?style=flat-square"/>
 </p>
 
-<h3 align="center"><i>Between code, coffee and ideas — I build things that solve real problems.</i></h3>
+<p align="center"><i>Between code, coffee and ideas — I build things that solve real problems.</i></p>
 
 <br/>
 
----
-
-## whoami
+<img src="https://img.shields.io/badge/-%20whoami-7c6af7?style=for-the-badge&logoColor=white" />
 
 I'm the kind of person who opens the **terminal before opening email**.
 
@@ -28,9 +26,7 @@ Co-founder of **Code Lusitan**, because I believe good ideas deserve great execu
 
 <br/>
 
----
-
-## tech --list
+<img src="https://img.shields.io/badge/-%20tech%20--list-7c6af7?style=for-the-badge&logoColor=white" />
 
 **Languages**
 
@@ -59,22 +55,18 @@ Co-founder of **Code Lusitan**, because I believe good ideas deserve great execu
 
 <br/>
 
----
-
-## ls --pinned
+<img src="https://img.shields.io/badge/-%20ls%20--pinned-7c6af7?style=for-the-badge&logoColor=white" />
 
 | &nbsp; | Repo | Description |
 |--------|------|-------------|
-| 🔧 | [**ConvertLab**](https://github.com/Amatias13/ConvertLab) | One tool for every transformation — Swiss army knife for devs. |
+| 🔧 | [**ConvertLab**](https://github.com/Amatias13/ConvertLab) | One tool for every transformation. |
 | 🌐 | [**Portfolio**](https://github.com/Amatias13/Portfolio) | Personal portfolio built from scratch. |
 | 🚗 | [**LuxuryWheels**](https://github.com/Amatias13/LuxuryWheels) | Luxury automotive web experience. |
 | 📬 | [**MailMind**](https://github.com/Amatias13/MailMind) | Smarter email workflows, simplified. |
 
 <br/>
 
----
-
-## git log --oneline
+<img src="https://img.shields.io/badge/-%20git%20log%20--oneline-7c6af7?style=for-the-badge&logoColor=white" />
 
 ```
 feat: 3+ years building production systems at INSTICC
@@ -85,8 +77,6 @@ goal: MSc Software Engineering (incoming)
 ```
 
 <br/>
-
----
 
 <p align="center">Made with 💜 &amp; ☕ in Portugal</p>
 
