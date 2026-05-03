@@ -55,17 +55,6 @@ Co-founder of **Code Lusitan**, because I believe good ideas deserve great execu
 
 <br/>
 
-<img src="https://img.shields.io/badge/-%20ls%20--pinned-7c6af7?style=for-the-badge&logoColor=white" />
-
-| &nbsp; | Repo | Description |
-|--------|------|-------------|
-| 🔧 | [**ConvertLab**](https://github.com/Amatias13/ConvertLab) | One tool for every transformation. |
-| 🌐 | [**Portfolio**](https://github.com/Amatias13/Portfolio) | Personal portfolio built from scratch. |
-| 🚗 | [**LuxuryWheels**](https://github.com/Amatias13/LuxuryWheels) | Luxury automotive web experience. |
-| 📬 | [**MailMind**](https://github.com/Amatias13/MailMind) | Smarter email workflows, simplified. |
-
-<br/>
-
 <img src="https://img.shields.io/badge/-%20git%20log%20--oneline-7c6af7?style=for-the-badge&logoColor=white" />
 
 ```
@@ -73,7 +62,7 @@ feat: 3+ years building production systems at INSTICC
 feat: co-founded Code Lusitan
 feat: full-stack — from DB schema to pixel-perfect UI
 learn: always exploring what comes next
-goal: MSc Software Engineering (incoming)
+goal: Master's in Software Engineering (incoming)
 ```
 
 <br/>
