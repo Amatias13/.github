@@ -16,7 +16,7 @@
 
 ---
 
-### 👤 whoami
+## whoami
 
 I'm the kind of person who opens the **terminal before opening email**.
 
@@ -30,7 +30,7 @@ Co-founder of **Code Lusitan**, because I believe good ideas deserve great execu
 
 ---
 
-### 🛠️ tech --list
+## tech --list
 
 **Languages**
 
@@ -61,7 +61,7 @@ Co-founder of **Code Lusitan**, because I believe good ideas deserve great execu
 
 ---
 
-### 📌 ls --pinned
+## ls --pinned
 
 | &nbsp; | Repo | Description |
 |--------|------|-------------|
@@ -74,7 +74,7 @@ Co-founder of **Code Lusitan**, because I believe good ideas deserve great execu
 
 ---
 
-### 📋 git log --oneline
+## git log --oneline
 
 ```
 feat: 3+ years building production systems at INSTICC
